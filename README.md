@@ -14,5 +14,5 @@
 - 4) A JUGAR!!
 
 ## Como actualizar de la a2.0 a la ultima version disponbile aqui en [github](https://github.com/Majhrs16/ShLauncher/releases)?
-- 1) Descargar como zip este repositorio,
-- 2) Remplazar los archivos de su .minecraft por los archivos dentro de src.
+- 1) Descargar la ultima version mas reciente,
+- 2) Remplazar los archivos de su .minecraft por los archivos dentro del 7z.
